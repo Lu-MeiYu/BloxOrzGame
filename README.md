@@ -13,7 +13,7 @@ Unity版本:2022.3.24f1
 2.點選各LevelData後按下Edit可在Scene視窗點擊滑鼠進行關卡編輯。
 
 Unity version:2022.3.24f1
-##Game Play Environment
+## Game Play Environment
 
 1. **Active Scene**  
    - Switch to either `GameScene` or `StartScene` in the Unity Editor.  
