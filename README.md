@@ -1,4 +1,5 @@
 Unity版本:2022.3.24f1
+
 要遊玩遊戲，需進行以下設定:
 1.需要切換到GameScene或StartScene。
 2.需要使用Simulator或是建置為APK檔。
