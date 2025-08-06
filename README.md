@@ -1,19 +1,19 @@
 Unity版本:2022.3.24f1
 
-要遊玩遊戲，需進行以下設定:
+## 遊戲環境設置
 1.需要切換到GameScene或StartScene。
 2.需要使用Simulator或是建置為APK檔。
 
-遊戲方式:
+## 遊戲方式
 1.按下滑鼠左鍵並進行滑動以移動方塊。
 2.使用虛擬搖桿以移動視角。
 
-若要進行關卡編輯，需要至LevelData資料夾:
-1.點選LevelDatasManager以新增或編輯關卡順序。
+## 關卡編輯
+1.至LevelData資料夾點選LevelDatasManager以新增或編輯關卡順序。
 2.點選各LevelData後按下Edit可在Scene視窗點擊滑鼠進行關卡編輯。
 
 Unity version:2022.3.24f1
-Before you can play the game, please ensure the following:
+##Game Play Environment
 
 1. **Active Scene**  
    - Switch to either `GameScene` or `StartScene` in the Unity Editor.  
